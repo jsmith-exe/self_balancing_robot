@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating esp32.egg-info
+writing esp32.egg-info/PKG-INFO
+writing dependency_links to esp32.egg-info/dependency_links.txt
+writing entry points to esp32.egg-info/entry_points.txt
+writing requirements to esp32.egg-info/requires.txt
+writing top-level names to esp32.egg-info/top_level.txt
+writing manifest file 'esp32.egg-info/SOURCES.txt'
+reading manifest file 'esp32.egg-info/SOURCES.txt'
+writing manifest file 'esp32.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/python3.10/site-packages/esp32.egg-link (link to .)
+Installing esp32_imu_serial_bridge script to /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/esp32
+Installing imu_bridge script to /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/esp32
+
+Installed /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32
+running symlink_data
+creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index
+creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index/resource_index
+creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index/resource_index/packages
+symbolically linking /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/resource/esp32 -> /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index/resource_index/packages
+symbolically linking /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/package.xml -> /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/esp32
+creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/esp32/launch
+symbolically linking /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/launch/imu.launch.py -> /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/esp32/launch

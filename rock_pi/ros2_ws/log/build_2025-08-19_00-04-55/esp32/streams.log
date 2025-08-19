@@ -1,0 +1,27 @@
+[2.215s] Invoking command in '/home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32': PYTHONPATH=/home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/build --no-deps symlink_data
+[3.082s] running develop
+[3.561s] running egg_info
+[3.561s] creating esp32.egg-info
+[3.561s] writing esp32.egg-info/PKG-INFO
+[3.562s] writing dependency_links to esp32.egg-info/dependency_links.txt
+[3.563s] writing entry points to esp32.egg-info/entry_points.txt
+[3.564s] writing requirements to esp32.egg-info/requires.txt
+[3.564s] writing top-level names to esp32.egg-info/top_level.txt
+[3.564s] writing manifest file 'esp32.egg-info/SOURCES.txt'
+[3.570s] reading manifest file 'esp32.egg-info/SOURCES.txt'
+[3.572s] writing manifest file 'esp32.egg-info/SOURCES.txt'
+[3.578s] running build_ext
+[3.578s] Creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/python3.10/site-packages/esp32.egg-link (link to .)
+[3.583s] Installing esp32_imu_serial_bridge script to /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/esp32
+[3.585s] Installing imu_bridge script to /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/esp32
+[3.588s] 
+[3.591s] Installed /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32
+[3.593s] running symlink_data
+[3.594s] creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index
+[3.596s] creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index/resource_index
+[3.598s] creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index/resource_index/packages
+[3.599s] symbolically linking /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/resource/esp32 -> /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index/resource_index/packages
+[3.601s] symbolically linking /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/package.xml -> /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/esp32
+[3.602s] creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/esp32/launch
+[3.604s] symbolically linking /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/launch/imu.launch.py -> /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/esp32/launch
+[3.770s] Invoked command in '/home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32' returned '0': PYTHONPATH=/home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/build --no-deps symlink_data

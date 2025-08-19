@@ -1,0 +1,70 @@
+[0.000000] (-) TimerEvent: {}
+[0.003438] (esp32) JobQueued: {'identifier': 'esp32', 'dependencies': OrderedDict()}
+[0.004734] (esp32) JobStarted: {'identifier': 'esp32'}
+[0.097638] (-) TimerEvent: {}
+[0.199843] (-) TimerEvent: {}
+[0.301735] (-) TimerEvent: {}
+[0.402881] (-) TimerEvent: {}
+[0.504133] (-) TimerEvent: {}
+[0.605246] (-) TimerEvent: {}
+[0.706401] (-) TimerEvent: {}
+[0.807617] (-) TimerEvent: {}
+[0.908895] (-) TimerEvent: {}
+[1.010371] (-) TimerEvent: {}
+[1.111619] (-) TimerEvent: {}
+[1.212644] (-) TimerEvent: {}
+[1.313811] (-) TimerEvent: {}
+[1.414914] (-) TimerEvent: {}
+[1.516215] (-) TimerEvent: {}
+[1.617312] (-) TimerEvent: {}
+[1.718439] (-) TimerEvent: {}
+[1.819660] (-) TimerEvent: {}
+[1.920704] (-) TimerEvent: {}
+[2.021894] (-) TimerEvent: {}
+[2.123160] (-) TimerEvent: {}
+[2.211143] (esp32) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/build', '--no-deps', 'symlink_data'], 'cwd': '/home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_US.UTF-8', 'USER': 'js', 'SSH_CLIENT': '192.168.1.12 49967 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/js', 'OLDPWD': '/home/js/ros2_ws/src', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/js/self_balancing_robot/rock_pi/ros2_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'js', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '4', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32:/home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32_imu_bridge:/opt/ros/humble', 'LC_MESSAGES': 'en_US.UTF-8', 'SHELL': '/usr/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '192.168.1.12 49967 192.168.1.196 22', 'PYTHONPATH': '/home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/python3.10/site-packages:/home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32:/home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/python3.10/site-packages:/home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32_imu_bridge:/home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32_imu_bridge/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[2.223199] (-) TimerEvent: {}
+[2.323860] (-) TimerEvent: {}
+[2.424624] (-) TimerEvent: {}
+[2.525360] (-) TimerEvent: {}
+[2.626102] (-) TimerEvent: {}
+[2.726837] (-) TimerEvent: {}
+[2.827597] (-) TimerEvent: {}
+[2.928329] (-) TimerEvent: {}
+[3.029123] (-) TimerEvent: {}
+[3.086430] (esp32) StdoutLine: {'line': b'running develop\n'}
+[3.129393] (-) TimerEvent: {}
+[3.230172] (-) TimerEvent: {}
+[3.330911] (-) TimerEvent: {}
+[3.431630] (-) TimerEvent: {}
+[3.532365] (-) TimerEvent: {}
+[3.564880] (esp32) StdoutLine: {'line': b'running egg_info\n'}
+[3.565760] (esp32) StdoutLine: {'line': b'creating esp32.egg-info\n'}
+[3.566153] (esp32) StdoutLine: {'line': b'writing esp32.egg-info/PKG-INFO\n'}
+[3.566927] (esp32) StdoutLine: {'line': b'writing dependency_links to esp32.egg-info/dependency_links.txt\n'}
+[3.567726] (esp32) StdoutLine: {'line': b'writing entry points to esp32.egg-info/entry_points.txt\n'}
+[3.568355] (esp32) StdoutLine: {'line': b'writing requirements to esp32.egg-info/requires.txt\n'}
+[3.568920] (esp32) StdoutLine: {'line': b'writing top-level names to esp32.egg-info/top_level.txt\n'}
+[3.569264] (esp32) StdoutLine: {'line': b"writing manifest file 'esp32.egg-info/SOURCES.txt'\n"}
+[3.574463] (esp32) StdoutLine: {'line': b"reading manifest file 'esp32.egg-info/SOURCES.txt'\n"}
+[3.576932] (esp32) StdoutLine: {'line': b"writing manifest file 'esp32.egg-info/SOURCES.txt'\n"}
+[3.582269] (esp32) StdoutLine: {'line': b'running build_ext\n'}
+[3.583123] (esp32) StdoutLine: {'line': b'Creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/python3.10/site-packages/esp32.egg-link (link to .)\n'}
+[3.586737] (esp32) StdoutLine: {'line': b'Installing esp32_imu_serial_bridge script to /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/esp32\n'}
+[3.588926] (esp32) StdoutLine: {'line': b'Installing imu_bridge script to /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/lib/esp32\n'}
+[3.591612] (esp32) StdoutLine: {'line': b'\n'}
+[3.594809] (esp32) StdoutLine: {'line': b'Installed /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32\n'}
+[3.596828] (esp32) StdoutLine: {'line': b'running symlink_data\n'}
+[3.598404] (esp32) StdoutLine: {'line': b'creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index\n'}
+[3.600046] (esp32) StdoutLine: {'line': b'creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index/resource_index\n'}
+[3.601659] (esp32) StdoutLine: {'line': b'creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index/resource_index/packages\n'}
+[3.603150] (esp32) StdoutLine: {'line': b'symbolically linking /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/resource/esp32 -> /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/ament_index/resource_index/packages\n'}
+[3.604844] (esp32) StdoutLine: {'line': b'symbolically linking /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/package.xml -> /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/esp32\n'}
+[3.606376] (esp32) StdoutLine: {'line': b'creating /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/esp32/launch\n'}
+[3.608025] (esp32) StdoutLine: {'line': b'symbolically linking /home/js/self_balancing_robot/rock_pi/ros2_ws/build/esp32/launch/imu.launch.py -> /home/js/self_balancing_robot/rock_pi/ros2_ws/install/esp32/share/esp32/launch\n'}
+[3.633149] (-) TimerEvent: {}
+[3.735235] (-) TimerEvent: {}
+[3.773263] (esp32) CommandEnded: {'returncode': 0}
+[3.838448] (-) TimerEvent: {}
+[3.904217] (esp32) JobEnded: {'identifier': 'esp32', 'rc': 0}
+[3.907018] (-) EventReactorShutdown: {}

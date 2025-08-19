@@ -1,0 +1,4 @@
+[console_scripts]
+esp32_imu_serial_bridge = esp32.serial_to_ros2:main
+imu_bridge = esp32.serial_to_ros2:main
+
