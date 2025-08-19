@@ -67,7 +67,7 @@ void loop() {
     float pitch_for_control = wrap180(p - pitch_off_deg);
 
     // ONE line per sample, nothing else:
-    Serial.printf("$RY,%.2f,%.2f\n", roll_for_control, pitch_for_control);
+    Serial.printf("$RP,%.2f,%.2f\n", roll_for_control, pitch_for_control);
   }
 
   // Simple serial commands
