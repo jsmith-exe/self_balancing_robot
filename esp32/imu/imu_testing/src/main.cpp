@@ -66,8 +66,8 @@ void loop() {
     float roll_for_control  = wrap180(r - roll_off_deg);
     float pitch_for_control = wrap180(p - pitch_off_deg);
 
-    // Print ONLY what your controller needs
-    Serial.printf("ROLL %7.2f  PITCH %7.2f\n", roll_for_control, pitch_for_control);
+    // ONE line per sample, nothing else:
+    Serial.printf("$RY,%.2f,%.2f\n", roll_for_control, pitch_for_control);
   }
 
   // Simple serial commands
