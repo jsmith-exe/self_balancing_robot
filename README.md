@@ -20,4 +20,4 @@ The self-balancing robot is built around a **Rock Pi 4b** and an **ESP32 Dev Mod
 
 Below is the system diagram showing how all the components connect:
 
-![System Diagram](self_balancing_system_diagram.png)
+![System Diagram](self_balancing_system_diagram.jpg)
