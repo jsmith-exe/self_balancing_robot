@@ -1,0 +1,9 @@
+{
+  "Rock Pi": 1,
+  "ESP32": 1,
+  "Buck Converter": 0,
+  "Li Po Battery": 0,
+  "IMU (9-Axis)": 1,
+  "Motors": 0,
+  "Motor Drivers": 1
+}
