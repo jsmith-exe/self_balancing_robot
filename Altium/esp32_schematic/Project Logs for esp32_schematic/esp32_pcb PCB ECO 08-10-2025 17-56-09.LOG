@@ -1,0 +1,148 @@
+Removed Pin From Net: NetName=5V_ESP32 Pin=M1-3
+Removed Pin From Net: NetName=5V_ESP32_RETURN Pin=M1-4
+Removed Pin From Net: NetName=M1_NEG Pin=M1-5
+Removed Pin From Net: NetName=M1_POS Pin=M1-6
+Removed Pin From Net: NetName=5V_ESP32_RETURN Pin=M2-3
+Removed Pin From Net: NetName=5V_ESP32 Pin=M2-4
+Change Component Footprint: Designator=M1 Old Footprint=FP-22-12-4062-MFG New Footprint=MOLEX-0436500205
+Change Component Footprint: Designator=M2 Old Footprint=FP-22-12-4062-MFG New Footprint=MOLEX-0436500205
+Change Component Comment : Designator=M1 Old Comment=22-12-4062 New Comment=Molex 	
+0436500205
+Change Component Comment : Designator=M2 Old Comment=22-12-4062 New Comment=Molex 	
+0436500205
+Change Managed Component Library Link : Designator=M1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=485B271A-6EC9-43AC-A45A-E580BBCFB6D6 Old ItemGUID=D6599AA9-577A-4013-95C1-C6256CCCBC83 New ItemGUID=375BD2BC-F032-4E50-B238-6CD1755E42BF Old RevisionGUID=DC6876B6-9301-4858-943E-6D984D097020 New RevisionGUID=235bf839-e428-42db-9b44-ef3a560ccd01
+Change Managed Component Library Link : Designator=M2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=485B271A-6EC9-43AC-A45A-E580BBCFB6D6 Old ItemGUID=D6599AA9-577A-4013-95C1-C6256CCCBC83 New ItemGUID=375BD2BC-F032-4E50-B238-6CD1755E42BF Old RevisionGUID=DC6876B6-9301-4858-943E-6D984D097020 New RevisionGUID=235bf839-e428-42db-9b44-ef3a560ccd01
+Change component parameters: Designator = "M1" ("M1"); Footprint = "FP-22-12-4062-MFG"; UniqueID = "\ZCUKKWPV" ("\ZCUKKWPV")
+Change component parameters (AddParameter): Name = "ComponentLinkDescription"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLinkURL"; Value = "https://www.molex.com/webdocs/datasheets/pdf/en-us/0436500205_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Orientation"; Value = "Right-Angled"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConnectorType"; Value = "Micro-Fit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "8.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Jack/Receptacle"; Value = "Jack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "0436500205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MountingType"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ways"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACHStatement"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS3Certificate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS3Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageRating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "M2" ("M2"); Footprint = "FP-22-12-4062-MFG"; UniqueID = "\GKJELNDE" ("\GKJELNDE")
+Change component parameters (AddParameter): Name = "ComponentLinkDescription"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLinkURL"; Value = "https://www.molex.com/webdocs/datasheets/pdf/en-us/0436500205_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Orientation"; Value = "Right-Angled"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConnectorType"; Value = "Micro-Fit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "8.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Jack/Receptacle"; Value = "Jack"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "0436500205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MountingType"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ways"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACHStatement"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS3Certificate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS3Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageRating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=ENC1(FP-22-05-7048-MFG)
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Glow Wire Compliant"; Value = "Non-compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "7395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=ENC2(FP-22-05-7048-MFG)
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Glow Wire Compliant"; Value = "Non-compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "7395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_ESP32 Pin=ENC1-3
+Added Pin To Net: NetName=5V_ESP32_RETURN Pin=ENC1-4
+Added Pin To Net: NetName=5V_ESP32_RETURN Pin=ENC2-1
+Added Pin To Net: NetName=5V_ESP32 Pin=ENC2-2
+Added Pin To Net: NetName=M1_NEG Pin=M1-1
+Added Pin To Net: NetName=M1_POS Pin=M1-2
+Added Pin To Net: NetName=NetENC1_1 Pin=ENC1-1
+Added Pin To Net: NetName=NetENC1_1 Pin=R6-1
+Added Net: Name=NetENC1_1
+Added Pin To Net: NetName=NetENC1_2 Pin=ENC1-2
+Added Pin To Net: NetName=NetENC1_2 Pin=R5-2
+Added Net: Name=NetENC1_2
+Added Pin To Net: NetName=NetENC2_3 Pin=ENC2-3
+Added Pin To Net: NetName=NetENC2_3 Pin=R7-2
+Added Net: Name=NetENC2_3
+Added Pin To Net: NetName=NetENC2_4 Pin=ENC2-4
+Added Pin To Net: NetName=NetENC2_4 Pin=R8-1
+Added Net: Name=NetENC2_4
+Added Member To Class: ClassName=esp32 Member=Component ENC1 22-05-7048
+Added Member To Class: ClassName=esp32 Member=Component ENC2 22-05-7048
