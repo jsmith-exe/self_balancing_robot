@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin 12V_DRIVE-1
+Added Pin To Net: NetName=3V3_RETURN Pin=C2-1
+Added Pin To Net: NetName=5V_RETURN Pin=C6-1
+Added Net: Name=5V_RETURN
+Added Rule: Name=Schematic Supply Nets_1

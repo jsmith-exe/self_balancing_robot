@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=M1_PWM Pin=J2-1
+Removed Pin From Net: NetName=M1_DIRECTION Pin=J2-2
+Removed Pin From Net: NetName=M2_PWM Pin=J2-3
+Removed Pin From Net: NetName=M2_DIRECTION Pin=J2-4
+Removed Pin From Net: NetName=M1_PWM Pin=R1-2
+Removed Pin From Net: NetName=M1_DIRECTION Pin=R2-2
+Removed Pin From Net: NetName=M2_PWM Pin=R3-2
+Removed Pin From Net: NetName=M2_DIRECTION Pin=R4-2
+Removed Pin From Net: NetName=SCL Pin=R13-1
+Removed Pin From Net: NetName=3V3 Pin=R13-2
+Removed Pin From Net: NetName=SDA Pin=R14-1
+Removed Pin From Net: NetName=3V3 Pin=R14-2
+Removed Member From Class: ClassName=esp32 Member=R13
+Removed Member From Class: ClassName=esp32 Member=R14
+Add Pin To Net: Unknown Pin: Pin 12V_DRIVE-1
+Added Pin To Net: NetName=M1_DIRECTION Pin=J2-1
+Added Pin To Net: NetName=M1_PWM Pin=J2-2
+Added Pin To Net: NetName=M2_DIRECTION Pin=J2-3
+Added Pin To Net: NetName=M2_PWM Pin=J2-4
+Added Pin To Net: NetName=M1_DIRECTION Pin=R1-2
+Added Pin To Net: NetName=M1_PWM Pin=R2-2
+Added Pin To Net: NetName=M2_DIRECTION Pin=R3-2
+Added Pin To Net: NetName=M2_PWM Pin=R4-2
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=Default

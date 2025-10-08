@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\User\self_balancing_robot\Altium\esp32_schematic\esp32_pcb.PcbDoc
+Date         : 07/10/2025
+Time         : 21:03:08
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 84.5mmx62mm
+    Components on board, 32
+count : 2

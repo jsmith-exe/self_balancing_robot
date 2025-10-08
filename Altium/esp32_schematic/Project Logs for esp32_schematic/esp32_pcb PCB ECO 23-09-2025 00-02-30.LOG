@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=12V Pin=12V_OUT-   
+Removed Member From Class: ClassName=esp32 Member=D2
+Removed Member From Class: ClassName=esp32 Member=R13
+Removed Member From Class: ClassName=esp32 Member=R14
+Removed Member From Class: ClassName=esp32 Member=USBC
+Added Component: Designator=12V_REG(CONN_SD-42375-001_M240_02_MOL)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "22285020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BAT(AMASS_XT60-M)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin 12V_OUT-1
+Added Pin To Net: NetName=12V Pin=12V_REG-1
+Added Pin To Net: NetName=BAT_RETURN Pin=12V_REG-2
+Added Pin To Net: NetName=BAT_RETURN Pin=BAT-N
+Added Pin To Net: NetName=12V Pin=BAT-P
+Added Member To Class: ClassName=esp32 Member=Component 12V_REG 22285020
+Added Member To Class: ClassName=esp32 Member=Component BAT XT60-M

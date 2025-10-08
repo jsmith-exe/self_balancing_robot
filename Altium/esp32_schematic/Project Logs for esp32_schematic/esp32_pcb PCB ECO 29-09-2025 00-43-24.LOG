@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3V3 Pin=I2C-4
+Add Pin To Net: Unknown Pin: Pin 12V_DRIVE-1
+Added Pin To Net: NetName=5V_ESP32_RETURN Pin=C6-1
+Added Pin To Net: NetName=5V_ESP32_RETURN Pin=I2C-4
