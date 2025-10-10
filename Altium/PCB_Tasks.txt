@@ -1,0 +1,5 @@
+- Fix the Rock Pi mounting holes
+- Determine component placement relative to other boards
+- Find mating connectors and crimps
+- Add resistors and caps to board
+- Add text (initals, etc)
