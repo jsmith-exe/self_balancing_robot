@@ -1,0 +1,108 @@
+Removed Member From Class: ClassName=esp32 Member=C?
+Removed Member From Class: ClassName=esp32 Member=CZ
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=CZ NewDesignator=C1
+Added Component: Designator=C9(1206 CAP)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CapacitorType"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLinkDescription"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "https://datasheet.ciiva.com/pdfs/VipMasterIC/IC/TDKC/TDKC-S-A0008796792/TDKC-S-A0008796792-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DielectricType"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "C3216X5R1E476M160AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multilayer"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMTMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated DC Voltage (URdc)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACHStatement"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS3Certificate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS3Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristics Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Wraparound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance  (fill in as +-)"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (fill in as +-)"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=C10(1206 CAP)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CapacitorType"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLinkDescription"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "https://datasheet.ciiva.com/pdfs/VipMasterIC/IC/TDKC/TDKC-S-A0008796792/TDKC-S-A0008796792-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DielectricType"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "C3216X5R1E476M160AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multilayer"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMTMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated DC Voltage (URdc)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACHStatement"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS3Certificate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS3Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristics Code"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Wraparound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance  (fill in as +-)"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (fill in as +-)"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT_RETURN Pin=C1-1
+Added Pin To Net: NetName=+12 Pin=C1-2
+Added Pin To Net: NetName=BAT_RETURN Pin=C2-1
+Added Pin To Net: NetName=+12 Pin=C2-2
+Added Pin To Net: NetName=BAT_RETURN Pin=C3-1
+Added Pin To Net: NetName=+12 Pin=C3-2
+Added Pin To Net: NetName=BAT_RETURN Pin=C4-1
+Added Pin To Net: NetName=+12 Pin=C4-2
+Added Pin To Net: NetName=5V_ESP32_RETURN Pin=C5-1
+Added Pin To Net: NetName=5V_ESP32 Pin=C5-2
+Added Pin To Net: NetName=5V_ESP32_RETURN Pin=C6-1
+Added Pin To Net: NetName=5V_ESP32 Pin=C6-2
+Added Pin To Net: NetName=5V_ESP32_RETURN Pin=C7-1
+Added Pin To Net: NetName=5V_ESP32 Pin=C7-2
+Added Pin To Net: NetName=5V_ESP32_RETURN Pin=C8-1
+Added Pin To Net: NetName=5V_ESP32 Pin=C8-2
+Added Pin To Net: NetName=3V3_RETURN Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Added Pin To Net: NetName=3V3_RETURN Pin=C10-1
+Added Pin To Net: NetName=3V3 Pin=C10-2
+Added Member To Class: ClassName=esp32 Member=Component C9 47uF 25V (1)
+Added Member To Class: ClassName=esp32 Member=Component C10 47uF 25V (1)
