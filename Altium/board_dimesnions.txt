@@ -1,0 +1,11 @@
+pi board
+- x: 85 mm
+- y: 56 mm
+- xpitch: 57.45 mm
+- ypitch: 49 mm
+
+driver board
+- x: 84.6 mm
+- y: 61.73 mm
+- xpitch: 78.60 mm
+- ypitch: 55.60 mm
