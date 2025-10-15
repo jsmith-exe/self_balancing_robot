@@ -1,3 +1,4 @@
 - Add LEDs for indication of working
 - Add buzzer for startup notification
 - Add switches to switch on different setions of the board
+- https://uk.rs-online.com/web/p/compact-power-connectors/1805359
