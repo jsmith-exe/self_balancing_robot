@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=+5 Old Footprint=MOLEX_22057025 New Footprint=MOLEX_22-05-7025
+Change Component Comment : Designator=+5 Old Comment=22057025 New Comment=22-05-7025
+Change Managed Component Library Link : Designator=+5 Old VaultGUID=485B271A-6EC9-43AC-A45A-E580BBCFB6D6 New VaultGUID= Old ItemGUID=0AD31F1F-3D53-4A42-A886-75D563807118 New ItemGUID= Old RevisionGUID=3b338ce6-e6ae-4f0b-9aee-7c0ecfb42a94 New RevisionGUID=
+Change component parameters: Designator = "+5" ("+5"); Footprint = "MOLEX_22057025"; UniqueID = "\RIFQYTUF" ("\RIFQYTUF")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/22-05-7025/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "22-05-7025"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/22-05-7025/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
