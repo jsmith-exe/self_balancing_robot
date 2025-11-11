@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BAT_RETURN_NET Pin=C15-1
+Removed Pin From Net: NetName=+12 Pin=C15-2
+Removed Pin From Net: NetName=BAT_RETURN_NET Pin=C16-1
+Removed Pin From Net: NetName=+12 Pin=C16-2
+Removed Pin From Net: NetName=BAT_RETURN_NET Pin=C23-1
+Removed Pin From Net: NetName=+12 Pin=C23-2
+Removed Member From Class: ClassName=esp32 Member=C15
+Removed Member From Class: ClassName=esp32 Member=C16
+Removed Member From Class: ClassName=esp32 Member=C23

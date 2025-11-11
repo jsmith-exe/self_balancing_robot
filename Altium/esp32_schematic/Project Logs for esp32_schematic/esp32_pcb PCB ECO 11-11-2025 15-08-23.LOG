@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=BAT_RETURN Pin=BAT-N
+Removed Pin From Net: NetName=+12 Pin=BAT-P
+Removed Member From Class: ClassName=esp32 Member=BAT
+Added Component: Designator=+POS(KEYSTONE_7794)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7794/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7794/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=-NEG(KEYSTONE_7794)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7794/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7794/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=+POS-1_1
+Added Pin To Net: NetName=+12 Pin=+POS-1_2
+Added Pin To Net: NetName=+12 Pin=+POS-1_3
+Added Pin To Net: NetName=+12 Pin=+POS-1_4
+Added Pin To Net: NetName=BAT_RETURN Pin=-NEG-1_1
+Added Pin To Net: NetName=BAT_RETURN Pin=-NEG-1_2
+Added Pin To Net: NetName=BAT_RETURN Pin=-NEG-1_3
+Added Pin To Net: NetName=BAT_RETURN Pin=-NEG-1_4
+Added Member To Class: ClassName=esp32 Member=Component +POS 7794
+Added Member To Class: ClassName=esp32 Member=Component -NEG 7794

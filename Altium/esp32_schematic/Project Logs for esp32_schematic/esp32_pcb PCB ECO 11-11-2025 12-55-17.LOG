@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=3V3_RETURN Pin=IMU-1
+Removed Pin From Net: NetName=3V3_RETURN Pin=IMU-2
+Removed Pin From Net: NetName=3V3 Pin=IMU-3
+Removed Pin From Net: NetName=SCL Pin=IMU-4
+Removed Pin From Net: NetName=SDA Pin=IMU-5
+Removed Pin From Net: NetName=3V3 Pin=IMU-6
+Removed Pin From Net: NetName=3V3_RETURN Pin=PWM-1
+Removed Pin From Net: NetName=3V3_RETURN Pin=PWM-2
+Removed Pin From Net: NetName=M2_PWM Pin=PWM-3
+Removed Pin From Net: NetName=M2_DIRECTION Pin=PWM-4
+Removed Pin From Net: NetName=M1_PWM Pin=PWM-5
+Removed Pin From Net: NetName=M1_DIRECTION Pin=PWM-6
+Removed Member From Class: ClassName=esp32 Member=IMU
+Change Component Footprint: Designator=PWM Old Footprint=FP-22-12-4062-MFG New Footprint=MOLEX_22057065
+Change Component Comment : Designator=PWM Old Comment=22-12-4062 New Comment=22057065
+Change Managed Component Library Link : Designator=PWM Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D6599AA9-577A-4013-95C1-C6256CCCBC83 New ItemGUID= Old RevisionGUID=DC6876B6-9301-4858-943E-6D984D097020 New RevisionGUID=
+Change component parameters: Designator = "PWM" ("PWM"); Footprint = "FP-22-12-4062-MFG"; UniqueID = "\ZRHURWKY" ("\ZRHURWKY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/22057065/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "22057065"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/22057065/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(MOLEX_22057065)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/22057065/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "22057065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/22057065/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J?-1
+Added Pin To Net: NetName=SDA Pin=J?-2
+Added Pin To Net: NetName=SCL Pin=J?-3
+Added Pin To Net: NetName=3V3 Pin=J?-4
+Added Pin To Net: NetName=3V3_RETURN Pin=J?-5
+Added Pin To Net: NetName=3V3_RETURN Pin=J?-6
+Added Pin To Net: NetName=M1_DIRECTION Pin=PWM-1
+Added Pin To Net: NetName=M1_PWM Pin=PWM-2
+Added Pin To Net: NetName=M2_DIRECTION Pin=PWM-3
+Added Pin To Net: NetName=M2_PWM Pin=PWM-4
+Added Pin To Net: NetName=3V3_RETURN Pin=PWM-5
+Added Pin To Net: NetName=3V3_RETURN Pin=PWM-6
+Added Member To Class: ClassName=esp32 Member=Component J? 22057065

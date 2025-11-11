@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+12 Pin=+POS-1_1
+Removed Pin From Net: NetName=+12 Pin=+POS-1_2
+Removed Pin From Net: NetName=+12 Pin=+POS-1_3
+Removed Pin From Net: NetName=+12 Pin=+POS-1_4
+Removed Pin From Net: NetName=BAT_RETURN Pin=-NEG-1_1
+Removed Pin From Net: NetName=BAT_RETURN Pin=-NEG-1_2
+Removed Pin From Net: NetName=BAT_RETURN Pin=-NEG-1_3
+Removed Pin From Net: NetName=BAT_RETURN Pin=-NEG-1_4
+Removed Member From Class: ClassName=esp32 Member=J?
+Change Component Designator: OldDesignator=J? NewDesignator=+POS
+Change Component Designator: OldDesignator=J? NewDesignator=-NEG
+Added Pin To Net: NetName=+12 Pin=+POS-1_1
+Added Pin To Net: NetName=+12 Pin=+POS-1_2
+Added Pin To Net: NetName=+12 Pin=+POS-1_3
+Added Pin To Net: NetName=+12 Pin=+POS-1_4
+Added Pin To Net: NetName=BAT_RETURN Pin=-NEG-1_1
+Added Pin To Net: NetName=BAT_RETURN Pin=-NEG-1_2
+Added Pin To Net: NetName=BAT_RETURN Pin=-NEG-1_3
+Added Pin To Net: NetName=BAT_RETURN Pin=-NEG-1_4
