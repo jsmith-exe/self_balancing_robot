@@ -1,0 +1,38 @@
+Change Component Footprint: Designator=R11 Old Footprint=RESC3225X70X50LL20T20 New Footprint=RESC3225X70X50ML20T20
+Change Component Designator: OldDesignator=SW1 NewDesignator=PWR
+Change Component Description : Designator=+5 Old Description=Header 2.5mm SPOX, WTB, RA, F/lock, 2w New Description=Header 2.5mm SPOX, WTB, RA, F/lock, 2w | Molex Incorporated 22-05-7025
+Change Component Description : Designator=+POS Old Description=PC SCREW TERMINAL New Description=PC SCREW TERMINAL | Keystone Electronics 7794
+Change Component Description : Designator=-NEG Old Description=PC SCREW TERMINAL New Description=PC SCREW TERMINAL | Keystone Electronics 7794
+Added Component: Designator=ESP(FP-EG2208A-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "10000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "200gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "EG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "30V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5_reg Pin=ESP-2
+Added Pin To Net: NetName=5V_ESP32 Pin=ESP-3
+Added Pin To Net: NetName=GND_reg Pin=ESP-5
+Added Pin To Net: NetName=5V_ESP32_RETURN Pin=ESP-6
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetPWR_3
+Added Member To Class: ClassName=power_on Member=Component ESP EG2208A

@@ -1,0 +1,50 @@
+Added Component: Designator=D5(KPTR-3216SGC-Footprint-1)
+Add component (AddParameter): Name = "Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color@wavelength"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Super Bright Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLinkDescription"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "https://datasheet.ciiva.com/pdfs/VipMasterIC/IC/KNGB/KNGBS03251/KNGBS03251-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ForwardVoltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "WATER CLEAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity-Min"; Value = "120cd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity-Nom"; Value = "15mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPTR-3216SGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Surge Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Optoelectronic Device Type"; Value = "SINGLE COLOR LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overall Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACHStatement"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage-Max"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ReverseVoltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS3Certificate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS3Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "3.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC2013X60X40ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB4990V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_reg Pin=D5-2
+Added Pin To Net: NetName=+5_reg Pin=R17-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R17-1
+Added Net: Name=NetD5_1
+Added Member To Class: ClassName=power_on Member=Component D5 KPTR-3216SGC
+Added Member To Class: ClassName=power_on Member=Component R17 147R
