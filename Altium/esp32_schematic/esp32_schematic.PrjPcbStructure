@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=esp32.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=esp32.SchDoc|FileName=power_on.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=headers.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=headers.SchDoc|FileName=microcontroller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=headers.SchDoc|FileName=power.SchDoc|SheetNumber=2
